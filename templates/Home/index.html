@@ -1,0 +1,42 @@
+{%extends 'base/base.html' %}
+
+{% block page-content %}
+     <div class="layui-tab tab" lay-filter="wenav_tab" id="WeTabTip" lay-allowclose="true">
+				<ul class="layui-tab-title" id="tabName">
+					<li>我的桌面</li>
+				</ul>
+				<div class="layui-tab-content">
+					<div class="layui-tab-item layui-show">
+                        <!--WeAdmin公告-->
+						<div class="layui-card">
+							<div class="layui-card-header layui-elem-quote">WeAdmin公告</div>
+							<div class="layui-card-body">
+								<div class="layui-carousel weadmin-notice" lay-filter="notice" lay-indicator="inside" lay-arrow="none" style="width: 100%; height: 280px;">
+									<div carousel-item="">
+										{% for foo in Noticeitem %}
+										  <div class="">
+                                             <a href="https://gitee.com/lovetime/WeAdmin" target="_blank" class="{{ foo.color }}">
+                                                 公告：{{ foo.title }}
+                                                 发布日期：{{ foo.date |date:"Y-n-d " }}
+                                                 发布人：{{ foo.User.username }}
+                                             </a>
+										  </div>
+										{% endfor %}
+									</div>
+									<div class="layui-carousel-ind">
+										<ul>
+											<li class="layui-this"></li>
+											<li></li>
+										</ul>
+									</div>
+									<!--<button class="layui-icon layui-carousel-arrow" lay-type="sub"></button>
+									<button class="layui-icon layui-carousel-arrow" lay-type="add"></button>-->
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+{% endblock %}
+</html>

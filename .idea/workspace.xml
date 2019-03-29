@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/gradesign/views.py" line="53" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d402699-0257-45af-af12-f0c16aad2168" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MovieNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieNew/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieNew/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieNew/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieNew/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/migrations/0002_notice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/migrations/0003_notice_color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradesign/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/lay/treeGird.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/lib/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/cate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/role-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/role.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/admin/rule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/category-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/category-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/category-edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/article/复制 list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/echarts/echarts9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/add2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/addInput.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/del.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/list2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/member/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/order/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/order/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/pages/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/css/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/css/weadmin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/css/weadmin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/fonts/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/fonts/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/fonts/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/aiwrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/mapico1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/mapico2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/mapico3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/images/mapico4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/js/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/js/eleDel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/js/extends/tabmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/WeAdmin/static/js/weadmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/particles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Home/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Users/UserList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MovieNew$views.coverage" NAME="views Coverage Results" MODIFIED="1553765913867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gradesign" />
+    <SUITE FILE_PATH="coverage/MovieNew$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1553710225512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MovieNew" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MovieNew" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hasClass</find>
+      <find>login-button</find>
+      <find>admin</find>
+      <find>我的</find>
+      <find>layui-card</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MovieNew/urls.py" />
+        <option value="$PROJECT_DIR$/common/model.py" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/MovieNew/settings.py" />
+        <option value="$PROJECT_DIR$/static/WeAdmin/login.html" />
+        <option value="$PROJECT_DIR$/static/js/login/login.js" />
+        <option value="$PROJECT_DIR$/templates/login/login.html" />
+        <option value="$PROJECT_DIR$/templates/Home/welcome.html" />
+        <option value="$PROJECT_DIR$/gradesign/models.py" />
+        <option value="$PROJECT_DIR$/templates/base/base.html" />
+        <option value="$PROJECT_DIR$/gradesign/urls.py" />
+        <option value="$PROJECT_DIR$/templates/Home/index.html" />
+        <option value="$PROJECT_DIR$/templates/Users/UserList.html" />
+        <option value="$PROJECT_DIR$/gradesign/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="298" />
+    <option name="y" value="220" />
+    <option name="width" value="1920" />
+    <option name="height" value="1156" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MovieNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovieNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiger\PycharmProjects\MovieNew\static\WeAdmin" />
+      <recent name="C:\Users\tiger\PycharmProjects\MovieNew\static\js" />
+      <recent name="C:\Users\tiger\PycharmProjects\MovieNew\static" />
+      <recent name="C:\Users\tiger\PycharmProjects\MovieNew\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.MovieNew">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MovieNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gradesign" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gradesign/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MovieNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MovieNew" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MovieNew/wsgi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieNew" type="Python.DjangoServer" factoryName="Django server" singleton="false">
+      <module name="MovieNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MovieNew.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="7000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.MovieNew" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.wsgi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.wsgi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d402699-0257-45af-af12-f0c16aad2168" name="默认的" comment="" />
+      <created>1553682317189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553682317189</updated>
+      <workItem from="1553800476063" duration="2802000" />
+      <workItem from="1553837248735" duration="49000" />
+      <workItem from="1553837457920" duration="117000" />
+      <workItem from="1553837689432" duration="443000" />
+      <workItem from="1553838147596" duration="69000" />
+      <workItem from="1553838230715" duration="43000" />
+      <workItem from="1553838295975" duration="6000" />
+      <workItem from="1553838545897" duration="35000" />
+      <workItem from="1553839294636" duration="122000" />
+      <workItem from="1553839983245" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3694000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1293" height="783" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4870427" visible="true" weight="0.27970898" />
+      <window_info id="Structure" order="1" sideWeight="0.49545455" weight="0.20129345" />
+      <window_info id="Favorites" order="2" sideWeight="0.51295733" side_tool="true" weight="0.14672595" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.1414713" weight="0.32924962" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="运行" order="7" sideWeight="0.4983832" weight="0.1714939" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="manage.py@MovieNew" order="10" weight="0.2949695" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.8585287" side_tool="true" visible="true" weight="0.19571866" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.19131097" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.3292683" />
+      <window_info anchor="bottom" id="找到" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gradesign/views.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gradesign/views.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gradesign/views.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3" />
+  </component>
+</project>
